@@ -1,0 +1,18 @@
+....... .......... ..........  0% 1.52K 2h53m
+   150K .......... .......... .......... .......... ..........  1% 2.84K 2h33m
+   200K .......... .......... .......... .......... ..........  1% 2.52K 2h24m
+   250K .......... .......... .......... .......... ..........  1% 1.68K 2h27m
+   300K .......... .......... .......... .......... ..........  2% 1.65K 2h29m
+   350K .......... .......... .......... .......... ..........  2% 8.45K 2h14m
+   400K .......... .......... .......... .......... ..........  2% 1.68K 2h16m
+   450K .......... .......... .......... .......... .           2% 2.39K=4m4s
+
+2022-10-10 23:22:15 (2.01 KB/s) — Erreur de lecture à l’octet 503169/17124929 (Connexion terminée par expiration du délai d'attente). Nouvel essai.
+
+--2022-10-10 23:22:16--  (essai :  2)  https://trunk.io/releases/0.18.1-beta/trunk-0.18.1-beta-linux-x86_64.tar.gz
+Connexion à trunk.io (trunk.io)|13.224.222.106|:443… échec : Le réseau n'est pas accessible.
+Connexion à trunk.io (trunk.io)|13.224.222.24|:443… échec : Le réseau n'est pas accessible.
+Connexion à trunk.io (trunk.io)|13.224.222.77|:443… échec : Le réseau n'est pas accessible.
+Connexion à trunk.io (trunk.io)|13.224.222.51|:443… échec : Le réseau n'est pas accessible.
+Résolution de trunk.io (trunk.io)… échec : Échec temporaire dans la résolution du nom.
+wget : impossible de résoudre l’adresse de l’hôte « trunk.io »
